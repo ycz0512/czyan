@@ -16,4 +16,4 @@ I achieved my M.E. degree in the Department of Automation at Tsinghua University
 
 You can find my CV [here](../assets/CV.pdf).
 
-##I’m actively seeking opportunities to pursue a PhD degree in related areas.##
+**I’m actively seeking opportunities to pursue a PhD degree in related areas.**
